@@ -1,0 +1,9 @@
+-Serialized models with Pickle
+
+-Had meeting with stakeholder to confirm certain requirements
+
+WORKING: on collecting new data to re-train models
+
+WORKING: on setting up Kafka with the models
+
+-Not Blocked
